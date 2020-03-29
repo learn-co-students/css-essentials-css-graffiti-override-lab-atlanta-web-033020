@@ -19,18 +19,9 @@
 }
 
 
-
-
-
-
-
-
-
-
-
-
-
-
+div#wall #tag-3.slick {
+  opacity: 0;
+}
 
 
 
@@ -47,5 +38,4 @@
 #wall .parent {
   display: none;
 }
-
 
